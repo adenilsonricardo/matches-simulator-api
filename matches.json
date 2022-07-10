@@ -1,53 +1,53 @@
 [
   {
-    "descrição": "Eliminatórias Copa 2022",
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
     },
     "mandante": {
       "nome": "Brasil",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
       "nome": "Argentina",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
   },
   {
-    "descrição": "Eliminatórias Copa 2022",
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "nome": "Olympic Stadium Hernando Siles",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hernando_Siles_Stadium_-_La_Paz.jpg"
     },
     "mandante": {
-      "nome": "Brasil",
-      "força": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "nome": "Bolívia",
+      "forca": 2,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
     },
     "visitante": {
-      "nome": "Uruguay",
-      "força": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   },
-    {
-    "descrição": "Eliminatórias Copa 2022",
+  {
+    "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://cdn.pixabay.com/photo/2016/03/29/17/07/maracana-1288818_1280.jpg"
     },
     "mandante": {
       "nome": "Brasil",
-      "força": 5,
+      "forca": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
-      "nome": "Colômbia",
-      "força": 3,
+      "nome": "Colombia",
+      "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
-  },
+  }
 ]
